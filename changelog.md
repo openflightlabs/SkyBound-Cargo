@@ -2,7 +2,7 @@
 - added silent update button to update addons without changing the order
 - added the option to add multiple uninstall paths
 
-- ## v0.1.1
+## v0.1.1
 - fixes ERR_TOO_MANY_REDIRECTS when a database hasn't been created yet
 
 ## v0.1.0
