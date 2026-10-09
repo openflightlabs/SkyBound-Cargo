@@ -1,3 +1,6 @@
+## v0.1.4:
+- fixed createdAt being neither imported nor exported
+
 ## v0.1.3:
 - fixed json imports not applying the updatedAt time correctly
 
