@@ -1,3 +1,6 @@
+## v0.1.5:
+- fixed an issue where Cargo Manager wouldn't build because I was lazy and put updated files in the already created zip, thus breaking said files :p
+
 ## v0.1.4:
 - fixed createdAt being neither imported nor exported
 
